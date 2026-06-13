@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Projects</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Projects</h1>
+
+<div class="project">
+<h3>Portfolio Website</h3>
+<p>Responsive portfolio using HTML and CSS.</p>
+</div>
+
+<div class="project">
+<h3>Student Management System</h3>
+<p>Database management project using SQL.</p>
+</div>
+
+<div class="project">
+<h3>Weather App</h3>
+<p>Weather application using JavaScript.</p>
+</div>
+
+</body>
+</html>
